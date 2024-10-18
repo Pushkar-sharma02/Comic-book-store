@@ -33,14 +33,20 @@ Before running the project, ensure that you have the following installed:
 
 After getting the project files, follow these steps to install the dependencies:
 1. Install the dependencies for the backend
+   
   -cd backend
+  
   -npm install
+  
 Install the dependencies for the frontend
+
 cd ../frontend
+
 npm install
 
+
  
-2. **Clone the repository**:
+3. **Clone the repository**:
       If you have Git installed, open your terminal and run:
       ```bash
       git clone https://github.com/Pushkar-sharma02/Comic-book-store.git
